@@ -38,7 +38,8 @@ My research interest includes Trustworthy AI, Federated Learning, and Computer V
 
 - Contrastive Desensitization Learning for Cross-Domain Face Forgery Detection                         
 **Lingyu Qiu**, Ke Jiang, Xiaoyang Tan.                        
- Arxiv2025[[Paper]](https://arxiv.org/pdf/2505.20675)[[Code]](https://github.com/Lynn0925/RoGA)
+ Arxiv2025
+[[Paper]](https://arxiv.org/pdf/2505.20675)[[Code]](https://github.com/Lynn0925/RoGA)
 
 - Adversarial prompt tuning for vision-language models                         
 Jiaming Zhang, Xingjun Ma, Xin Wang, **Lingyu Qiu**, Jiaqi Wang, Yu-Gang Jiang, Jitao                        
