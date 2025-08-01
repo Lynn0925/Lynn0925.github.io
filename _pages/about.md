@@ -26,6 +26,7 @@ My research interest includes Trustworthy AI, Federated Learning, and Computer V
 
 - *2025.07*: &nbsp;🎉🎉 I am honored to join the MODAL team as part of TUAI (MSCA-DN) and look forward to my doctoral journey.
 - *2025.05*: &nbsp;🎉🎉 Our paper: [RoGA](https://arxiv.org/pdf/2505.20653?) was selected as an oral presentation at ICME2025.
+
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICME 2025</div><img src='images/roga.png' alt="sym" width="100%"></div></div>
