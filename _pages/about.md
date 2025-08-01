@@ -17,11 +17,10 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lingyu Qiu
+I am a first-year PhD student in the Department of Mathematics and Applications "R. Caccioppoli" of the University of Naples Federico II, under the supervision of [Prof.Francesco Piccialli](https://scholar.google.com/citations?user=CLNn_9gAAAAJ).
+Prior to this, I received my master's degree from Nanjing University of Aeronautics and Astronautics under the supervision of [Prof.Xiaoyang Tan](https://scholar.google.com/citations?user=rHMtSOYAAAAJ). 
 
-My research interest includes Trustworthy AI, Federated Learning, and Computer Vision.}}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
-
-
+My research interest includes Trustworthy AI, Federated Learning, and Computer Vision.
 # 🔥 News
 
 - *2025.07*: &nbsp;🎉🎉 I am honored to join the MODAL team as part of TUAI (MSCA-DN) and look forward to my doctoral journey.
