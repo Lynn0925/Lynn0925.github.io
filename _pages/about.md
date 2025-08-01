@@ -28,8 +28,6 @@ My research interest includes Trustworthy AI, Federated Learning, and Computer V
 
 # 📝 Publications 
 
-
-
 - RoGA: Towards Generalizable Deepfake Detection through Robust Gradient Alignment                        
   **Lingyu Qiu**, Ke Jiang, Xiaoyang Tan.                                   
   ICME2025 
@@ -43,7 +41,7 @@ My research interest includes Trustworthy AI, Federated Learning, and Computer V
 
 - Adversarial prompt tuning for vision-language models                         
 Jiaming Zhang, Xingjun Ma, Xin Wang, **Lingyu Qiu**, Jiaqi Wang, Yu-Gang Jiang, Jitao Sang                      
-  ECCV2024 [[Paper]](https://link.springer.com/chapter/10.1007/978-3-031-72995-9_4) [[Code]](https://github.com/jiamingzhang94/Adversarial-Prompt-Tuning)
+  ECCV2024 [[Paper]](https://arxiv.org/abs/2311.11261) [[Code]](https://github.com/jiamingzhang94/Adversarial-Prompt-Tuning)
 
 
 
