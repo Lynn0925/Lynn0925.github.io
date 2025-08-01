@@ -29,17 +29,14 @@ My research interest includes Trustworthy AI, Federated Learning, and Computer V
 
 # 📝 Publications 
 
-</div>
-</div>
+
 
 - RoGA: Towards Generalizable Deepfake Detection through Robust Gradient Alignment                        
   **Lingyu Qiu**, Ke Jiang, Xiaoyang Tan.                                   
   ICME2025 
   [[Paper]](https://arxiv.org/pdf/2505.20653)
   [[Code]](https://github.com/Lynn0925/RoGA)
-</div>
-</div>
-  
+
 - Contrastive Desensitization Learning for Cross-Domain Face Forgery Detection                         
 **Lingyu Qiu**, Ke Jiang, Xiaoyang Tan.                        
 [[Paper]](https://arxiv.org/pdf/2505.20675)
