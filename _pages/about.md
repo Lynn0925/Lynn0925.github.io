@@ -29,24 +29,19 @@ My research interest includes Trustworthy AI, Federated Learning, and Computer V
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICME 2025</div><img src='images/roga.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-  
-[RoGA: Towards Generalizable Deepfake Detection through Robust Gradient Alignment](https://arxiv.org/pdf/2505.20653)
-
-**Lingyu Qiu**, Ke Jiang, Xiaoyang Tan
-
-ICME2025  [[Paper]](https://arxiv.org/pdf/2505.20653)
-[[Code]](https://github.com/Lynn0925/RoGA)
 </div>
 </div>
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2025</div><img src='images/cda.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+
+- RoGA: Towards Generalizable Deepfake Detection through Robust Gradient Alignment                        
+  **Lingyu Qiu**, Ke Jiang, Xiaoyang Tan.                                   
+  ICME2025 
+  [[Paper]](https://arxiv.org/pdf/2505.20653)
+  [[Code]](https://github.com/Lynn0925/RoGA)
+</div>
+</div>
   
-[Contrastive Desensitization Learning for Cross-Domain Face Forgery Detection](https://arxiv.org/pdf/2505.20675)
-
-**Lingyu Qiu**, Ke Jiang, Xiaoyang Tan
-
+- Contrastive Desensitization Learning for Cross-Domain Face Forgery Detection                         
+**Lingyu Qiu**, Ke Jiang, Xiaoyang Tan.                        
 [[Paper]](https://arxiv.org/pdf/2505.20675)
 </div>
 </div>
