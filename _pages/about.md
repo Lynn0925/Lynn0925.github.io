@@ -50,7 +50,9 @@ Jiaming Zhang, Xingjun Ma, Xin Wang, **Lingyu Qiu**, Jiaqi Wang, Yu-Gang Jiang, 
 # 🎖 Honors and Awards
 - *2025.04* Outstanding Graduate of Nanjing University of Aeronautics and Astronautics.
 - *2022.06* Outstanding Graduates of Shanghai. 
-- *2021.12* Shanghai Scholarship. 
+- *2021.12* Shanghai Scholarship.
+
+  
 # 📖 Educations
 - *2022.09 - 2025.04*, Nanjing University of Aeronautics and Astronautics. 
 - *2018.09 - 2022.06*, Shanghai University of International Business and Economics. 
