@@ -40,7 +40,7 @@ My research interest includes Trustworthy AI, Federated Learning, and Computer V
 [[Paper]](https://arxiv.org/pdf/2505.20675)[[Code]](https://github.com/Lynn0925/RoGA)
 
 - Adversarial prompt tuning for vision-language models                         
-Jiaming Zhang, Xingjun Ma, Xin Wang, **Lingyu Qiu**, Jiaqi Wang, Yu-Gang Jiang, Jitao Sang                      
+Jiaming Zhang, Xingjun Ma, Xin Wang, **Lingyu Qiu**, Jiaqi Wang, YuGang Jiang, Jitao Sang                      
   ECCV2024 [[Paper]](https://arxiv.org/abs/2311.11261) [[Code]](https://github.com/jiamingzhang94/Adversarial-Prompt-Tuning)
 
 
