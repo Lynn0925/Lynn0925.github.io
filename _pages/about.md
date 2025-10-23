@@ -22,14 +22,21 @@ Prior to this, I received my master's degree from Nanjing University of Aeronaut
 
 My research interest includes Trustworthy AI, Federated Learning, and Computer Vision.
 # 🔥 News
-
+- *2025.10*: &nbsp;🎉🎉 One Paper has been accepted as a **regular paper** for the 2025 IEEE International Conference on Big Data.
+- *2025.08*: &nbsp;🎉🎉 Our paper: [MF-CLIP](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11126893) was accepted at IEEE TRANSACTIONS ON INFORMATION FORENSICS AND SECURITY.
 - *2025.07*: &nbsp;🎉🎉 I am honored to join the MODAL team as part of TUAI (MSCA-DN) and look forward to my doctoral journey.
-- *2025.05*: &nbsp;🎉🎉 Our paper: [RoGA](https://arxiv.org/pdf/2505.20653?) was selected as an oral presentation at ICME2025.
+- *2025.05*: &nbsp;Our paper: [RoGA](https://arxiv.org/pdf/2505.20653?) was selected as an oral presentation at ICME2025.
 
 # 📝 Publications 
 
+- MF-CLIP: Leveraging CLIP as Surrogate Models for No-Box Adversarial Attacks                      
+  Jiaming Zhang, **Lingyu Qiu**, Qi Yi, Yige Li, Jitao Sang, Changsheng Xu, and Dit-Yan Yeung.                                 
+  IEEE TRANSACTIONS ON INFORMATION FORENSICS AND SECURITY
+  [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11126893)
+  [[Code]]()
+  
 - RoGA: Towards Generalizable Deepfake Detection through Robust Gradient Alignment                        
-  **Lingyu Qiu**, Ke Jiang, Xiaoyang Tan.                                   
+  **Lingyu Qiu**, Ke Jiang, Xiaoyang Tan.  
   ICME2025 
   [[Paper]](https://arxiv.org/pdf/2505.20653)
   [[Code]](https://github.com/Lynn0925/RoGA)
