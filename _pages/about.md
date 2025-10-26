@@ -17,38 +17,49 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a first-year PhD student in the Department of Mathematics and Applications "R. Caccioppoli" of the University of Naples Federico II, under the supervision of [Prof.Francesco Piccialli](https://scholar.google.com/citations?user=CLNn_9gAAAAJ).
+I am a PhD student funded by the Marie Skłodowska-Curie Actions Doctoral Networks (MSCA-DN) fellowship, working in the Department of Mathematics and Applications "R. Caccioppoli" at the University of Naples Federico II under the supervision of [Prof.Francesco Piccialli](https://scholar.google.com/citations?user=CLNn_9gAAAAJ).
 Prior to this, I received my master's degree from Nanjing University of Aeronautics and Astronautics under the supervision of [Prof.Xiaoyang Tan](https://scholar.google.com/citations?user=rHMtSOYAAAAJ). 
 
 My research interest includes Trustworthy AI, Federated Learning, and Computer Vision.
 # 🔥 News
 - *2025.10*: &nbsp;🎉🎉 One paper has been accepted as a **regular paper** for the 2025 IEEE International Conference on Big Data.
 - *2025.08*: &nbsp;🎉🎉 Our paper: [MF-CLIP](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11126893) was accepted at IEEE TRANSACTIONS ON INFORMATION FORENSICS AND SECURITY.
-- *2025.07*: &nbsp;🎉🎉 I am honored to join the MODAL team as part of TUAI (MSCA-DN) and look forward to my doctoral journey.
 - *2025.05*: &nbsp;Our paper: [RoGA](https://arxiv.org/pdf/2505.20653?) was selected as an **oral** presentation at ICME2025.
 
 # 📝 Publications 
-
+- FedSDE: Self-Distillation with Diffusion Enhanced for One-shot Federated Learning
+  **Lingyu Qiu**, Daniela Annunziata, Fabio Giampaolo,Francesco Piccialli.  
+  2025 IEEE International Conference on Big Data
+  [[Paper]]()
+  [[Code]](https://github.com/Lynn0925/FedSDE)
+  
+- Deciphering One-Shot Federated Learning: The Pivotal Role of Pretrained Models
+  **Lingyu Qiu**, Daniela Annunziata, Fabio Giampaolo,Francesco Piccialli.  
+  2025 MobiCom FLEDGE-AI Workshop 
+  [[Paper]]()
+  [[Code]](https://github.com/Lynn0925/PM_OFL)
+  
 - MF-CLIP: Leveraging CLIP as Surrogate Models for No-Box Adversarial Attacks                      
   Jiaming Zhang, **Lingyu Qiu**, Qi Yi, Yige Li, Jitao Sang, Changsheng Xu, and Dit-Yan Yeung.                                 
-  IEEE TRANSACTIONS ON INFORMATION FORENSICS AND SECURITY
+  IEEE TRANSACTIONS ON INFORMATION FORENSICS AND SECURITY (TIFS)
   [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11126893)
   [[Code]]()
   
 - RoGA: Towards Generalizable Deepfake Detection through Robust Gradient Alignment                        
   **Lingyu Qiu**, Ke Jiang, Xiaoyang Tan.  
-  ICME2025 
+  2025 IEEE International Conference on Multimedia and Expo (ICME) 
   [[Paper]](https://arxiv.org/pdf/2505.20653)
   [[Code]](https://github.com/Lynn0925/RoGA)
 
 - Contrastive Desensitization Learning for Cross-Domain Face Forgery Detection                         
-**Lingyu Qiu**, Ke Jiang, Xiaoyang Tan.                        
- Arxiv2025
-[[Paper]](https://arxiv.org/pdf/2505.20675)[[Code]](https://github.com/Lynn0925/RoGA)
+  **Lingyu Qiu**, Ke Jiang, Xiaoyang Tan.                        
+  Arxiv2025
+  [[Paper]](https://arxiv.org/pdf/2505.20675)[[Code]](https://github.com/Lynn0925/RoGA)
 
 - Adversarial prompt tuning for vision-language models                         
-Jiaming Zhang, Xingjun Ma, Xin Wang, **Lingyu Qiu**, Jiaqi Wang, YuGang Jiang, Jitao Sang                      
-  ECCV2024 [[Paper]](https://arxiv.org/abs/2311.11261) [[Code]](https://github.com/jiamingzhang94/Adversarial-Prompt-Tuning)
+  Jiaming Zhang, Xingjun Ma, Xin Wang, **Lingyu Qiu**, Jiaqi Wang, YuGang Jiang, Jitao Sang                      
+  2024 The European Conference on Computer Vision (ECCV)
+  [[Paper]](https://arxiv.org/abs/2311.11261) [[Code]](https://github.com/jiamingzhang94/Adversarial-Prompt-Tuning)
 
 
 
