@@ -27,25 +27,25 @@ My research interest includes Trustworthy AI, Federated Learning, and Computer V
 - *2025.05*: &nbsp;Our paper: [RoGA](https://arxiv.org/pdf/2505.20653?) was selected as an **oral** presentation at ICME2025.
 
 # 📝 Publications 
-- FedSDE: Self-Distillation with Diffusion Enhanced for One-shot Federated Learning
+- FedSDE: Self-Distillation with Diffusion Enhanced for One-shot Federated Learning                     
   **Lingyu Qiu**, Daniela Annunziata, Fabio Giampaolo,Francesco Piccialli.  
   2025 IEEE International Conference on Big Data
   [[Paper]]()
   [[Code]](https://github.com/Lynn0925/FedSDE)
   
-- Deciphering One-Shot Federated Learning: The Pivotal Role of Pretrained Models
+- Deciphering One-Shot Federated Learning: The Pivotal Role of Pretrained Models                     
   **Lingyu Qiu**, Daniela Annunziata, Fabio Giampaolo,Francesco Piccialli.  
   2025 MobiCom FLEDGE-AI Workshop 
   [[Paper]]()
   [[Code]](https://github.com/Lynn0925/PM_OFL)
   
-- MF-CLIP: Leveraging CLIP as Surrogate Models for No-Box Adversarial Attacks                      
+- MF-CLIP: Leveraging CLIP as Surrogate Models for No-Box Adversarial Attacks                                           
   Jiaming Zhang, **Lingyu Qiu**, Qi Yi, Yige Li, Jitao Sang, Changsheng Xu, and Dit-Yan Yeung.                                 
   IEEE TRANSACTIONS ON INFORMATION FORENSICS AND SECURITY (TIFS)
   [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11126893)
   [[Code]]()
   
-- RoGA: Towards Generalizable Deepfake Detection through Robust Gradient Alignment                        
+- RoGA: Towards Generalizable Deepfake Detection through Robust Gradient Alignment                                             
   **Lingyu Qiu**, Ke Jiang, Xiaoyang Tan.  
   2025 IEEE International Conference on Multimedia and Expo (ICME) 
   [[Paper]](https://arxiv.org/pdf/2505.20653)
