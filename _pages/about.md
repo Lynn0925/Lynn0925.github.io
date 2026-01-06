@@ -28,6 +28,11 @@ My research interest includes Trustworthy AI, Federated Learning, and Computer V
 - *2025.05*: &nbsp;Our paper: [RoGA](https://arxiv.org/pdf/2505.20653?) was selected as an **oral** presentation at ICME2025.
 
 # 📝 Publications 
+- Towards One-shot Federated Learning: Advances, Challenges, and Future Directions
+  Flora Amato, **Lingyu Qiu**, Mohammad Tanveer, Salvatore Cuomo, Fabio Giampaolo, Francesco Piccialli                    
+  Neurocomputing
+  [[Paper]](https://www.sciencedirect.com/science/article/pii/S0925231225027602)
+  
 - FedSDE: Self-Distillation with Diffusion Enhanced for One-shot Federated Learning                     
   **Lingyu Qiu**, Daniela Annunziata, Fabio Giampaolo,Francesco Piccialli.  
   2025 IEEE International Conference on Big Data
