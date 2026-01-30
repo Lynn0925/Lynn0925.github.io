@@ -21,18 +21,8 @@ I am a PhD student funded by the Marie Skłodowska-Curie Actions Doctoral Networ
 Prior to this, I received my master's degree from Nanjing University of Aeronautics and Astronautics under the supervision of [Prof.Xiaoyang Tan](https://scholar.google.com/citations?user=rHMtSOYAAAAJ). 
 
 My research interest includes Trustworthy AI, Federated Learning, and Computer Vision.
-# 🔥 News
-- *2026.1*: &nbsp;🎉🎉 Our paper: <NAP-Tuning: Neural Augmented Prompt Tuning for Adversarially Robust Vision-Language Models> was accepted at TPAMI, IEEE.
-- *2025.11*: &nbsp;🎉🎉 Our paper: <Towards One-shot Federated Learning: Advances, Challenges, and Future Directions> was accepted at Neurocomputing, Elsevier.
-- *2025.08*: &nbsp;🎉🎉 Our paper: [MF-CLIP](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11126893) was accepted at IEEE TRANSACTIONS ON INFORMATION FORENSICS AND SECURITY.
-- *2025.05*: &nbsp;Our paper: [RoGA](https://arxiv.org/pdf/2505.20653?) was selected as an **oral** presentation at ICME2025.
 
 # 📝 Publications 
-- NAP-Tuning: Neural Augmented Prompt Tuning for Adversarially Robust Vision-Language Models                       
-  Jiaming Zhang, Xin Wang, Xingjun Ma, **Lingyu Qiu**, Yu-Gang Jiang, Jitao Sang                     
-  IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
-  [[Paper]](https://arxiv.org/pdf/2506.12706)
-  
 - Towards One-shot Federated Learning: Advances, Challenges, and Future Directions
   Flora Amato, **Lingyu Qiu**, Mohammad Tanveer, Salvatore Cuomo, Fabio Giampaolo, Francesco Piccialli                    
   Neurocomputing
