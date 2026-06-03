@@ -20,9 +20,18 @@ redirect_from:
 I am a PhD student funded by the Marie Skłodowska-Curie Actions Doctoral Networks (MSCA-DN) fellowship, working in the Department of Mathematics and Applications "R. Caccioppoli" at the University of Naples Federico II under the supervision of [Prof.Francesco Piccialli](https://scholar.google.com/citations?user=CLNn_9gAAAAJ).
 Prior to this, I received my master's degree from Nanjing University of Aeronautics and Astronautics under the supervision of [Prof.Xiaoyang Tan](https://scholar.google.com/citations?user=rHMtSOYAAAAJ). 
 
-My research interest includes Trustworthy AI, Federated Learning, and Computer Vision.
+My research interests include Trustworthy AI, Federated Learning, and Computer Vision.
+
+# 🔥 News
+- *2026.05*: &nbsp;🎉🎉 One Paper has been accepted at the ECML-PKDD 2026 Research Track.
+- *2026.01*: &nbsp;🎉🎉 Our paper: <NAP-Tuning: Neural Augmented Prompt Tuning for Adversarially Robust Vision-Language Models> was accepted at TPAMI, IEEE.
 
 # 📝 Publications 
+- FLIP4Tab: Federated Latent In-context Priors for Tabular Data Synthesis
+  **Lingyu Qiu**, Stefano Izzo, Daniela Annunziata, Fabio Giampaolo and Francesco Piccialli 
+  ECML-PKDD 2026 Research Track
+  [[Paper]]()
+  
 - Towards One-shot Federated Learning: Advances, Challenges, and Future Directions
   Flora Amato, **Lingyu Qiu**, Mohammad Tanveer, Salvatore Cuomo, Fabio Giampaolo, Francesco Piccialli                    
   Neurocomputing
