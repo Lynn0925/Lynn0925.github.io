@@ -23,16 +23,17 @@ Prior to this, I received my master's degree from Nanjing University of Aeronaut
 My research interests include Trustworthy AI, Federated Learning, and Computer Vision.
 
 # 🔥 News
+- *2026.07*: &nbsp;🎉🎉 One Paper has been accepted at the Computer Network, EI.
 - *2026.05*: &nbsp;🎉🎉 One Paper has been accepted at the ECML-PKDD 2026 Research Track.
 - *2026.01*: &nbsp;🎉🎉 Our paper: <NAP-Tuning: Neural Augmented Prompt Tuning for Adversarially Robust Vision-Language Models> was accepted at TPAMI, IEEE.
 
 # 📝 Publications 
-- FLIP4Tab: Federated Latent In-context Priors for Tabular Data Synthesis
+- FLIP4Tab: Federated Latent In-context Priors for Tabular Data Synthesis            
   **Lingyu Qiu**, Stefano Izzo, Daniela Annunziata, Fabio Giampaolo and Francesco Piccialli 
   ECML-PKDD 2026 Research Track
   [[Paper]]()
   
-- Towards One-shot Federated Learning: Advances, Challenges, and Future Directions
+- Towards One-shot Federated Learning: Advances, Challenges, and Future Directions 
   Flora Amato, **Lingyu Qiu**, Mohammad Tanveer, Salvatore Cuomo, Fabio Giampaolo, Francesco Piccialli                    
   Neurocomputing
   [[Paper]](https://www.sciencedirect.com/science/article/pii/S0925231225027602)
